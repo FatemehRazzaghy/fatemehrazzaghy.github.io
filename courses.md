@@ -11,10 +11,10 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2023|Fall  | **<a href="">Computer Programming Fundamentals2</a>**         |
+|2023|fall  | **<a href="">Computer Programming Fundamentals2</a>**         |
 |----|------|--------------------------------|
-|2023|Fall  | **<a href="/ds98/">computer enginiering</a>** |
+|2023|sommer  | **<a href="/ds98/">computer enginiering</a>** |
 |----|------|--------------------------------|
-|2023|Fall  | **<a href="">english course</a>** |
+|2023|spring  | **<a href="">english course</a>** |
 
 
