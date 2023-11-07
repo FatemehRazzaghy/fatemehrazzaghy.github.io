@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "فاطمه رزاقی"
 title_separator          : "-"
 name                     : "FatemehRazzaghy" 
-description              : "Welcome to my web site."
+description              : "Hello,this is my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "FatemehRazzagy"
-  avatar           : "C:\Users\Lenovo\Downloads\bio-photo"
+  avatar           : "C:/Users/Lenovo/Downloads/bio-photo"
   bio              : I love myself.
   location         : "تهران"
   email            : fatemeh_razzaghy@comp.iust.ac.ir
