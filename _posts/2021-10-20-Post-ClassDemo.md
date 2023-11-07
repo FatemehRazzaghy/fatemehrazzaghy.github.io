@@ -1,23 +1,17 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: Good wibe
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## Photos with a good feeling
 
-[my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[my favorite website](http://www.instagram.com)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+![alt text](assets\images\feel-good-image.jpg "feel good")
 
 ---
-**Test**: This is atest
+

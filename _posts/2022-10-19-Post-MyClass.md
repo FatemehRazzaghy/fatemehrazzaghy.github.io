@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: How was my sommer in 2023
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- I traveld alot.
+- I experienced new things.
+- I started to learn new language.
