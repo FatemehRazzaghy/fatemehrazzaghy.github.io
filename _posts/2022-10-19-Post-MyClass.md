@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: How was my sommer in 2023
+title: How was my summer in 2023
 ---
 
 - I traveld alot.
