@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: my tree
+title: My tree and jungle
 ---
 _This is my tree_ 
 
