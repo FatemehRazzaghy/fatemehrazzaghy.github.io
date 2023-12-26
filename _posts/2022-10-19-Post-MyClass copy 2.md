@@ -9,19 +9,19 @@ In this blog post, I'll continue exploring the Django project designed for manag
 
 Functions and Prompts:<br>
 
-Function exercise_list:<br>
+1.Function exercise_list:<br>
 
 Prompts: This function, by default, retrieves and displays all exercises and body parts.<br>
 Parameters: request (database input)<br>
-Functions body_part_detail, arm_detail, leg_detail, back_detail, abs_detail:<br>
+2.Functions body_part_detail, arm_detail, leg_detail, back_detail, abs_detail:<br>
 
 Prompts: These functions provide information related to various body sections.<br>
 Parameters: request (database input) and part (body section)<br>
-Functions add_exercise and show_exercise:<br>
+3.Functions add_exercise and show_exercise:<br>
 
 Prompts: These functions receive and display information about adding new exercises and showing existing ones.<br>
 Parameters: request (database input)<br>
-Functions arm_view, leg_view, abs_view, back_view:<br>
+4.Functions arm_view, leg_view, abs_view, back_view:<br>
 
 Prompts: These functions display information related to different body sections.<br>
 Parameters: request (database input)<br>
@@ -41,7 +41,8 @@ Stay tuned for more updates on this exciting Django project!<br>
 
 this is my web application link<br>
 
-"http://fatemehrazzaghy.pythonanywhere.com"
+
+<a href="http://fatemehrazzaghy.pythonanywhere.com"></a>
 
 
 
