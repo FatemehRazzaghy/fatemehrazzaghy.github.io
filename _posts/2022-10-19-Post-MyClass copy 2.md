@@ -41,7 +41,7 @@ Stay tuned for more updates on this exciting Django project!<br>
 
 this is my web application link<br>
 
-http://fatemehrazzaghy.pythonanywhere.com/
+"http://fatemehrazzaghy.pythonanywhere.com"
 
 
 
