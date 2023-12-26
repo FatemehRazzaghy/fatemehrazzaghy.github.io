@@ -42,7 +42,7 @@ Stay tuned for more updates on this exciting Django project!<br>
 this is my web application link<br>
 
 
-<a href="http://fatemehrazzaghy.pythonanywhere.com"></a>
+<a href="http://fatemehrazzaghy.pythonanywhere.com">exercise application</a>
 
 
 
