@@ -39,6 +39,10 @@ This Django project focuses on managing body exercises. It utilizes prompts to e
 
 Stay tuned for more updates on this exciting Django project!<br>
 
+this is my web application link<br>
+
+http://fatemehrazzaghy.pythonanywhere.com/
+
 
 
 
